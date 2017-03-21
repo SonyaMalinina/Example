@@ -1,5 +1,5 @@
 # Example
-##Постановка задачи:
+## Постановка задачи:
 Происходит бой между двумя армиями. 
 Состав армии 1: Wizard (не более 1 в армии), Rohhirim, WoodenElf, Human, Elf.
 Состав армии 2: Goblin, Troll, UrukHai, Orc.
