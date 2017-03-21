@@ -1,0 +1,25 @@
+c:\users\s105user11\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\s105user11\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\s105user11\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\s105user11\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\s105user11\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+c:\users\s105user11\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\s105user12\Desktop\Работа\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\s105user12\Desktop\Работа\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\s105user12\Desktop\Работа\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\s105user12\Desktop\Работа\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\s105user12\Desktop\Работа\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\s105user12\Desktop\Работа\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+E:\C#\Работа11\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+E:\C#\Работа11\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+E:\C#\Работа11\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+E:\C#\Работа11\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+E:\C#\Работа11\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+E:\C#\Работа11\ConsoleApplication2\ConsoleApplication2\bin\Debug\mscorlib.dll
+E:\C#\Работа11\ConsoleApplication2\ConsoleApplication2\bin\Debug\ru\mscorlib.resources.dll
+E:\C#\Работа11\ConsoleApplication2\ConsoleApplication2\bin\Debug\normidna.nlp
+E:\C#\Работа11\ConsoleApplication2\ConsoleApplication2\bin\Debug\normnfc.nlp
+E:\C#\Работа11\ConsoleApplication2\ConsoleApplication2\bin\Debug\normnfd.nlp
+E:\C#\Работа11\ConsoleApplication2\ConsoleApplication2\bin\Debug\normnfkc.nlp
+E:\C#\Работа11\ConsoleApplication2\ConsoleApplication2\bin\Debug\normnfkd.nlp
+E:\C#\Работа11\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
